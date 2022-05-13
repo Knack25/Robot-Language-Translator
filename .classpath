@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/natha/Downloads/py4j-0.10.9.5/py4j-0.10.9.5/py4j-java/py4j0.10.9.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/natha/Downloads/ntcore-java-2021.3.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/natha/Downloads/wpiutil-java-2021.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/natha/Downloads/ntcore-jni-2021.3.1-windowsx86-64.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
